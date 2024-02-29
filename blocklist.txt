@@ -45,3 +45,5 @@
 ||prehraj.to^
 ||zakazrizeni.cz^
 ||sledujteto.cz^
+||disqus.com^
+||iinfo.cz^
